@@ -1,27 +1,35 @@
 export const dataFake = [
     {
         "id":"1",
-        "title": "Filme novo da Marvel Studios!",
-        "description": "Marvel Studios anuncia novo filme dos Vingadores.",
-        "photoCover": "https://th.bing.com/th/id/R.a39c6fe6a7f9673039d0039ea2db8a13?rik=5mzkJSiavolP7Q&pid=ImgRaw&r=0"
+        "title": "Vingadores: Revolta Cósmica.",
+        "description": "Após a vitória contra Thanos em Vingadores: Ultimato, os Vingadores encontram uma relativa paz no universo. No entanto, essa tranquilidade é interrompida quando Kronos, o último dos Eternos Primordiais, alerta sobre a chegada iminente de Eon, um ser cósmico capaz de remodelar a realidade e destruir o universo. Os Vingadores, agora com reforços como Nova, Adam Warlock e Ms. Marvel, se unem para impedir essa ameaça. A jornada os leva através do espaço, onde enfrentam perigos cósmicos, desvendam segredos antigos e buscam artefatos misteriosos. No clímax épico, os Vingadores encaram Eon, revelando sua conexão com Kronos e as Joias do Infinito.",
+        "photoCover": "https://th.bing.com/th/id/R.a39c6fe6a7f9673039d0039ea2db8a13?rik=5mzkJSiavolP7Q&pid=ImgRaw&r=0",
+        "photoCoverDescription": "https://th.bing.com/th/id/R.344257851c95862e6bb017eee10a95e3?rik=esIyLSBbk2mPvQ&riu=http%3a%2f%2fcdn.atl.clicrbs.com.br%2fwp-content%2fuploads%2fsites%2f27%2f2019%2f04%2fAvengers_Infinity_War-1170x630.jpg&ehk=MaZR1zAjEWXzzJ8Cp5tHT4BDLfoQkICf%2bk%2f2w1owkXg%3d&risl=&pid=ImgRaw&r=0",
+        "descriptionContinuation": "Uma batalha emocionante se desenrola, testando os limites de seus poderes e sua capacidade de trabalho em equipe. Com sacrifícios heróicos, os Vingadores conseguem salvar o universo mais uma vez, mas não sem custos pessoais. O filme culmina em uma emocionante batalha final onde a determinação, a união e a coragem dos Vingadores são testadas ao máximo. Com sacrifícios heróicos e reviravoltas emocionantes, os Vingadores conseguem derrotar Eon e salvar o universo mais uma vez, mas não sem custos. Vingadores: Revolta Cósmica oferece uma continuação emocionante da saga, explorando temas de poder, identidade e responsabilidade, enquanto os heróis mais poderosos da Terra enfrentam uma ameaça cósmica que desafia sua determinação e coragem." 
     },
     {
         "id":"2",
-        "title": "Marvel Studios anuncia novo filme do Pantera Negra!",
-        "description": "hahahaha",
-        "photoCover": "https://www.gamerfocus.co/wp-content/uploads/2021/06/Avengers-Pantera-Negra-scaled.jpg"
+        "title": "Pantera Negra 3: Ascensão da Vibranium",
+        "description": "'Pantera Negra 3: Ascensão da Vibranium' é o aguardado terceiro capítulo da saga do herói da Marvel, T'Challa, que continua a história do reino de Wakanda e do legado do Pantera Negra. Após os eventos de 'Vingadores: Ultimato' e a trágica perda de Chadwick Boseman, o mundo se perguntou o que aconteceria com o icônico personagem. O filme presta homenagem ao legado de Boseman, ao mesmo tempo em que introduz um novo capítulo emocionante. A trama se desenrola quando uma nova ameaça emerge em Wakanda. Um grupo de extremistas vibranium, liderado por um misterioso vilão conhecido como 'O Sombra Vibranium', busca controlar a fonte do poderoso metal, ameaçando a estabilidade do reino e do mundo inteiro.",
+        "photoCover": "https://www.gamerfocus.co/wp-content/uploads/2021/06/Avengers-Pantera-Negra-scaled.jpg",
+        "photoCoverDescription":"https://th.bing.com/th?id=OIP.Y1P4Jv5CaGE5F33OxwrxSgHaGR&w=271&h=229&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+        "descriptionContinuation":"A princesa Shuri, interpretada por Letitia Wright, agora é a protetora interina de Wakanda e, com a ajuda de Okoye (Danai Gurira) e Nakia (Lupita Nyong'o), ela busca desvendar os segredos do Vibranium e deter a ameaça.Enquanto isso, a memória de T'Challa (interpretado por Chadwick Boseman nas cenas filmadas antes de sua trágica morte) continua a influenciar a história, com flashbacks que revelam mais sobre sua jornada como Pantera Negra e líder de Wakanda.O filme também explora a evolução dos personagens secundários, como M'Baku (Winston Duke) e Everett Ross (Martin Freeman), que desempenham papéis cruciais na defesa de Wakanda.'Pantera Negra 3: Ascensão da Vibranium' é uma mistura de ação espetacular, intrigas políticas e uma emocionante busca por identidade. Ele presta um tributo comovente a Chadwick Boseman enquanto expande o universo de Wakanda e o mito do Pantera Negra. Prepare-se para uma aventura épica e emocionante que honra o legado do herói e o futuro brilhante de Wakanda."
     },
     {
         "id":"3",
-        "title": "Lançamento de novo filme do Capitão América!",
-        "description": "hahahaha",
-        "photoCover": "https://th.bing.com/th/id/OIP.rjk7ndYP-2dEWvEPL7ZeFQHaEM?w=186&h=105&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        "title": "Capitão América: A Reviravolta",
+        "description": "'Capitão América: A Reviravolta' é um eletrizante novo capítulo da saga do icônico herói da Marvel, Steve Rogers. Neste filme, a história do Capitão América dá um giro emocionante quando novas ameaças e segredos do passado vêm à tona. A trama começa quando Steve Rogers (interpretado por Chris Evans) é chamado para liderar uma equipe de Vingadores em uma missão de resgate de reféns em uma instalação de alta segurança. No entanto, durante a missão, eles descobrem informações que indicam que um antigo inimigo, o Caveira Vermelha, pode estar de volta e planejando um ataque devastador.",
+        "photoCover": "https://wc.wallpaperuse.com/wallp/29-295456_s.jpg",
+        "photoCoverDescription":"https://image.tmdb.org/t/p/original/ePgEMRGYhbpGcfgnydvUJKNA3Ea.jpg",
+        "descriptionContinuation":"Para enfrentar essa ameaça, o Capitão América se reúne com seus aliados de confiança, incluindo a Viúva Negra (Scarlett Johansson), Falcão (Anthony Mackie), e a Agente Sharon Carter (Emily VanCamp). Juntos, eles embarcam em uma jornada global para rastrear o Caveira Vermelha e impedir seus planos nefastos. Além disso, o filme explora o passado misterioso de Steve Rogers, revelando segredos há muito enterrados que podem abalar sua compreensão de si mesmo e de sua identidade como Capitão América.'Capitão América: A Reviravolta' é uma mistura emocionante de ação, suspense e desenvolvimento de personagens. Ele mergulha nas complexidades do herói, questionando suas escolhas e seu legado, ao mesmo tempo em que oferece sequências de ação empolgantes e momentos de camaradagem entre os personagens. Prepare-se para uma reviravolta surpreendente na história do Capitão América, que deixará os fãs ansiosos por mais."
     },
     {
         "id":"4",
-        "title": "Novo filme do Thor lança ainda esse ano!",
-        "description": "hahahaha",
-        "photoCover": "https://static.papergeek.fr/2020/07/thor.jpg"
+        "title": "Thor: Reino Despedaçado!",
+        "description": "'Thor: Reino Despedaçado' é o aguardado próximo capítulo da saga do Deus do Trovão na Marvel, trazendo um novo e sombrio desafio para Thor e seus aliados. O filme explora a jornada do herói enquanto ele enfrenta uma ameaça de proporções cósmicas que abala o próprio equilíbrio do universo. A trama começa com a descoberta de que o misterioso e poderoso Mjolnir, o martelo de Thor, foi roubado de Asgard por um adversário desconhecido. Thor (interpretado por Chris Hemsworth) parte em uma jornada perigosa para recuperar seu martelo e restaurar a ordem em seu reino. No entanto, durante sua busca, ele descobre que um antigo e temível ser, conhecido como O Devorador de Mundos, está despertando das profundezas do cosmos e ameaça consumir tudo em seu caminho, incluindo Asgard.",
+        "photoCover": "https://static.papergeek.fr/2020/07/thor.jpg",
+        "photoCoverDescription": "https://wallpapercave.com/wp/wp2469939.jpg",
+        "descriptionContinuation":"Thor reúne uma equipe de heróis, incluindo Loki (Tom Hiddleston), Valquíria (Tessa Thompson), e o Doutor Estranho (Benedict Cumberbatch), para enfrentar essa ameaça iminente. Eles viajam por mundos misteriosos e enfrentam desafios cósmicos enquanto lutam para impedir O Devorador de Mundos de destruir toda a realidade.'Thor: Reino Despedaçado' promete uma experiência cinematográfica épica, com batalhas espetaculares, efeitos visuais deslumbrantes e uma história emocional que mergulha nas profundezas da mitologia nórdica e do multiverso Marvel. O filme levará Thor a questionar sua própria identidade como Deus do Trovão e seu papel no universo, enquanto enfrenta a maior ameaça que já enfrentou. Prepare-se para uma aventura cósmica repleta de reviravoltas surpreendentes e momentos emocionantes quando 'Thor: Reino Despedaçado' chegar aos cinemas, prometendo ser um dos filmes mais memoráveis da Marvel."
     }
 ]
 

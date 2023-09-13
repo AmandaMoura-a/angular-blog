@@ -9,14 +9,26 @@
 
     <div class="content__title">
         <h1>{{ contentTitle }}</h1>
-        <hr />
-        <a [routerLink]="['']"> Voltar </a>
-        
+        <hr />  
     </div>
 
-    <div class="content__description">
-        <p>
-            {{ contentDescription }}
-        </p>
+    <div class="container__description">
+        <div class="content__description">
+            <p>{{ contentDescription }}</p>
+            <img 
+            src="{{ photoCoverDescription }}" 
+            alt=""
+            srcset="">  
+        </div>
     </div>
+
+    <hr />
+    <div class="content__descriptionContinuation">
+        <p>{{ descriptionContinuation }}</p>
+    </div>
+    
+    <hr />
+    <hr />
+    <a [routerLink]="['']"><< Back</a>
 </div>
+
